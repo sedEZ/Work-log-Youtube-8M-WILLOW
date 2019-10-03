@@ -18,12 +18,8 @@
 ### 2. Create tensorflow-gpu virtual environment
 * Reference:
   * `https://towardsdatascience.com/tensorflow-gpu-installation-made-easy-use-conda-instead-of-pip-52e5249374bc`
+  * `https://docs.anaconda.com/anaconda/user-guide/tasks/switch-environment/`
 ### 3. Export environment variables(to ~/.bashrc)
 ### 4. Setting jupyter notebook
-* Reference
-  * Configuring:
-  
-  `https://towardsdatascience.com/running-jupyter-notebook-in-google-cloud-platform-in-15-min-61e16da34d52`
-  * Setting password : 
-  
-  `$jupyter notebook password`
+* Reference :
+  `https://zhuanlan.zhihu.com/p/37785615`
